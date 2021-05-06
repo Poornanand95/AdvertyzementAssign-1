@@ -37,3 +37,6 @@ This component returns a spinner 'loader.gif' if Loading is true i.e in the peri
 
 This component uses props and puts data in a card grid layout.
 
+# Netlify link
+
+https://elastic-kilby-53d01d.netlify.app/
